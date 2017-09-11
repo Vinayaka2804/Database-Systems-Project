@@ -1,2 +1,2 @@
 # Database-Systems-Project
-This is a sample test project
+This is a project built using the LAMP stack(Linux, Apache, MySQL, and PHP). 
